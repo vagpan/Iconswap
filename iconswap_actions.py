@@ -259,7 +259,7 @@ Test what each function does.
 
 
 # print("It will find those who want to buy tap and sell icx ")
-# pp.pprint(find_tap_buyers())
+# pp.pprint(find_TAP_buyers())
 
 
 # print("It will find those who want to sell tap and buy icx ")
